@@ -1,0 +1,3 @@
+quamash
+PyQt5
+git+https://github.com/Rapptz/discord.py@rewrite
